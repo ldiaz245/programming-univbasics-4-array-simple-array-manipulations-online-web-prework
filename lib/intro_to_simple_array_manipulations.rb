@@ -1,3 +1,5 @@
 artist=["Hozier", "Ariana Grande", "Usher",]
 next_artist = "Beyonce"
-artists.pop
+artists.push(next_artist)
+# => {"Hozier", "Ariana Grande", "Usher",
+
